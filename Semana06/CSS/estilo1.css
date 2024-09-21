@@ -1,0 +1,54 @@
+.estilo{
+    border: 2px solid rgb(192, 34, 34);
+    float: left;
+    background-color: rgb(84, 167, 88);
+    color: rgb(255, 130, 224);
+    width: 20%;
+    margin: 5px;
+    padding: 10px;
+}
+body{
+    background-color: lightskyblue;
+}
+#contexto{
+    width: 800px;
+    height: 800px;
+    margin: 0 auto 0 auto;
+    background-color: orange;
+
+}
+#encabezado{
+    width: 800px;
+    margin: 0 auto 0 auto;
+    background-color: blue;
+    color: white;
+    
+}
+#menu{
+    width: 800px;
+    margin: 0 auto 0 auto;
+    background-color: yellow;
+}
+#principal{
+    width: 550px;
+    margin: 0 auto 0 auto;
+    background-color: pink;
+    float: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.anuncios{
+    width: 250px;
+    height: 95%;
+    margin: 0 auto 0 auto;
+    background-color: chartreuse;
+    float: right;
+}
+#pie{
+    width: 800px;
+    margin: 0 auto;
+    background-color: royalblue;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
