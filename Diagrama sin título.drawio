@@ -163,7 +163,7 @@
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oxTfz5NFAqvcBvdkyXm5-37" target="oxTfz5NFAqvcBvdkyXm5-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-47" value="Salsa artesanal (s/preferencia)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-47" value="Quesos Tradicionales y Veganos" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" y="-24" width="80" relative="1" as="geometry">
             <mxPoint x="612.5" y="510" as="sourcePoint" />
             <mxPoint x="727.5" y="510" as="targetPoint" />
