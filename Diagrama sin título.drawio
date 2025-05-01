@@ -132,19 +132,19 @@
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-36" value="4" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="730" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-37" value="5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-37" value="5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="730" y="470" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxTfz5NFAqvcBvdkyXm5-38" target="oxTfz5NFAqvcBvdkyXm5-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-38" value="6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-38" value="6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="730" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxTfz5NFAqvcBvdkyXm5-39" target="oxTfz5NFAqvcBvdkyXm5-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-39" value="7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-39" value="7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="730" y="590" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-40" value="Untar Salsa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -182,13 +182,13 @@
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-52" value="semipreparada" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="685" y="640" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-55" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-55" value="Object" style="html=1;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="719.75" y="690" width="50.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxTfz5NFAqvcBvdkyXm5-56" target="oxTfz5NFAqvcBvdkyXm5-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-56" value="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-56" value="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="725" y="690" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-57" value="Hornear y controlar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -200,7 +200,7 @@
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxTfz5NFAqvcBvdkyXm5-60" target="oxTfz5NFAqvcBvdkyXm5-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-60" value="8" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-60" value="8" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="730" y="760" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-63" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -209,7 +209,7 @@
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oxTfz5NFAqvcBvdkyXm5-64" target="oxTfz5NFAqvcBvdkyXm5-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oxTfz5NFAqvcBvdkyXm5-64" value="2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="oxTfz5NFAqvcBvdkyXm5-64" value="2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="724.25" y="820" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxTfz5NFAqvcBvdkyXm5-66" value="Pizza empaquetada" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
